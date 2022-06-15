@@ -1,7 +1,8 @@
 # SLOT GAME BASIC
 
-Ini Hanya sebuah chall dari course bang [Dea Afrizal](). dan saya gabut.
-Jangan disalah gunakan
+Ini Hanya sebuah chall dari course bang [Dea Afrizal](https://www.instagram.com/dea.afrizal/).
+dan saya gabut.
+Jangan digunakan
 
 ### Todo List:
 
