@@ -1,0 +1,15 @@
+1. menampilkan token / username di html nya ketika sudah register  
+2. membuat tombol stop rolling 
+3. menambahkan notifikasi kekalahan  
+4. hide section start & section reward ketika user belum register dan show section tersebut ketika sudah register 
+5. memodifikasi tampilan CSS web 
+6. membuat score untuk player 
+7. membuat kreatifitas sendiri untuk reward nya (berupa apapun) 
+8. KREASI SENDIRI SEBUTKAN FITURNYA DI TIM ANDA 
+9. membuat page profile player  
+10. menambahkan LEVEL di game. 
+level 1: 3 box
+level 2: 4 box
+level 3: 5 box
+
+NOMOR 10 = AUTO SERTIFIKAT + TANPA HARUS TUGAS YG LAIN. CUKUP 10 doang maka anda == GG
