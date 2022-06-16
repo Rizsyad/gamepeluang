@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   background: url("https://bugistekno.com/wp-content/uploads/Tips-Menang-Bermain-Slot-Higgs-Domino-1.jpg")
     no-repeat center center fixed;
@@ -6,5 +6,9 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  height: 100%;
+} */
+html,
+body {
   height: 100%;
 }
