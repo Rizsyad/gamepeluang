@@ -4,7 +4,7 @@ Ini Hanya sebuah chall dari course bang [Dea Afrizal](https://www.instagram.com/
 dan saya gabut.
 Jangan digunakan
 
-[Demo](https://rizsyad.github.io/slotgame/)
+[Demo](https://rizsyad.github.io/gamepeluang/)
 
 ### Todo List:
 
