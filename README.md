@@ -1,8 +1,7 @@
 # Implementasi Game Peluang Berbasis Web Servis
 
 Ini Hanya sebuah chall dari course bang [Dea Afrizal](https://www.instagram.com/dea.afrizal/).
-dan saya gabut.
-Jangan digunakan
+dan saya gabut buat ini.
 
 [Demo](https://rizsyad.github.io/gamepeluang/)
 
