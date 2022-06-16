@@ -62,7 +62,9 @@ function playAudio(loop, src, play) {
 function playersIsWin(win) {
   if (win) {
     playAudio(false, "assets/audio/win.mp3", true);
-    Swal.fire("Congratulations", "Your Win This Lote", "success");
+    Swal.fire("Congratulations", "Your Win This Lote", "success").then(() => {
+      window.open("https://youtu.be/HlD2goOjPUo?t=49", "_blank");
+    });
     player.addWin;
     countWin.textContent = player.win;
     return;
@@ -124,7 +126,6 @@ window.addEventListener("load", () => {
 
     if (allEqual(boxGame)) {
       playersIsWin(true);
-      window.open("https://youtu.be/HlD2goOjPUo?t=49", "_blank");
       return;
     }
 
