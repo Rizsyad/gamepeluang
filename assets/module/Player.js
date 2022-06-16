@@ -46,7 +46,7 @@ class Player {
   }
 
   get addWin() {
-    this._win = this._win + 1;
+    this._win++;
     addSession("USER_WIN", this._win);
   }
 
